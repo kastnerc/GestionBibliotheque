@@ -1,1 +1,4 @@
 # GestionBibliotheque
+Ce projet de gestion de bibliothèque en C#, réalisé dans le cadre du cours de Programmation Orientée Objet en C# à La Cité Collégiale, se propose de fournir une expérience complète de recherche, d'emprunt, de retour et de réservation de livres pour les utilisateurs. Le rapport présente une analyse des besoins, une conception du système, ainsi que des détails sur l'implémentation et les défis techniques rencontrés.
+
+Les fonctionnalités principales incluent la gestion des livres, des emprunts, des utilisateurs et des prêts. Malgré quelques difficultés techniques, telles que la création du diagramme de classe UML et la gestion des entrées utilisateur, le projet a réussi à mettre en œuvre des fonctionnalités importantes telles que la génération de données de test, l'inscription des utilisateurs et la navigation fluide dans le système.
