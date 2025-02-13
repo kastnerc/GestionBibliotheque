@@ -1,4 +1,4 @@
-# GestionBibliotheque
+# Application de gestion de bibliothèque/Library Management System
 **Français:**
 Ce projet de gestion de bibliothèque en C#, réalisé dans le cadre du cours de Programmation Orientée Objet en C# à La Cité Collégiale, se propose de fournir une expérience complète de recherche, d'emprunt, de retour et de réservation de livres pour les utilisateurs. 
 
