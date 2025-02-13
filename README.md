@@ -1,10 +1,34 @@
-# Application de gestion de bibliothèque/Library Management System
-**Français:**
-Ce projet de gestion de bibliothèque en C#, réalisé dans le cadre du cours de Programmation Orientée Objet en C# à La Cité Collégiale, se propose de fournir une expérience complète de recherche, d'emprunt, de retour et de réservation de livres pour les utilisateurs. Un rapport est inclut, et présente une analyse des besoins, une conception du système, ainsi que des détails sur l'implémentation et les défis techniques rencontrés.
+# Library Management System (originally Application de Gestion de Bibliothèque)
+*This project was developed in French as part of a school assignment.*
 
-Les fonctionnalités principales incluent la gestion des livres, des emprunts, des utilisateurs et des prêts. Malgré quelques difficultés techniques, telles que la création du diagramme de classe UML et la gestion des entrées utilisateur, le projet a réussi à mettre en œuvre des fonctionnalités importantes telles que la génération de données de test, l'inscription des utilisateurs et la navigation fluide dans le système.
+## Overview
+The Library Management System (LMS) is a desktop application built using C# and .NET (WPF) to help libraries manage their collections and user transactions efficiently. The application allows users to:
+
+- Add, edit, and delete books from the collection.
+
+- Search for books based on various criteria.
+
+- Borrow, return, and reserve books.
+
+- Maintain a detailed history of book transactions for each user.
+
+- Manage user accounts and authentication.
+
+## Technologies Used
+**Language:** C#
+
+**Framework:** .NET (WPF)
+
+**IDE:** Visual Studio
+
+## Installation & Setup
 
 **English:**
-This C# library management project, developed as part of the Object-Oriented Programming in C# course at La Cité Collégiale, aims to provide a complete experience for users to search, borrow, return, and reserve books. A report is included, presenting a needs analysis, system design, as well as details on implementation and technical challenges encountered.
+1. Clone the repository
 
-The main features include book, loan, user, and borrowing management. Despite some technical difficulties, such as creating the UML class diagram and handling user input, the project successfully implemented key functionalities like test data generation, user registration, and smooth system navigation.
+2. Open the solution file (GestionBibliotheque.sln) in Visual Studio.
+
+3. Build and run the application.
+
+## License
+This project is open-source and licensed under the MIT License. 📝 See the full license text in the LICENSE file.
